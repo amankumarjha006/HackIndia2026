@@ -6,6 +6,17 @@ This project is a Frontend UI AI application built with Next.js.
 ## Team Members
 - **Name**: Aman Kumar Jha
 - **GitHub ID**: amankumarjha006
+- 
+- **Name**: Akshit Shukla
+- **GitHub ID**: Oriankaze
+- 
+- **Name**: Himanshu Kumar
+- **GitHub ID**: himanshukumar-web
+- 
+- **Name**: Adarsh Pandey
+- **GitHub ID**: adarshpandey6480-ops
+
+- 
 
 ## Demo Link
 [Live Demo](https://codeforgeai-eta.vercel.app/)
